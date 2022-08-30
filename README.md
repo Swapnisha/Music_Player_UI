@@ -1,1 +1,3 @@
-# Music_Player
+I took up a course(still ongoing) in MERN Stack in the third year of my B.Tech Program after I felt the the urge to learn something new by sitting at home during the time of Lockdown  where I was asked to make a Homepage and a single playlist page for a Online Music PLayer website like Spotify using only HTML and CSS where if wanted I can use JavaScript to present it in a much better manner(such as playing music).
+
+The Html for the Main Homepage of the Player is in index.html and styling for this html is done using the property of external css which is included in stylesheet.css and Html for the Single Playlist page is present in Single Playlist Screen.html and Css for the same is present in Single Playlist Screen Style.css.There are two more css files made to make the pages more responsive and all the media required for these pages are present in the "media.zip".
